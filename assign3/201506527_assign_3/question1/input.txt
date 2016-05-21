@@ -1,0 +1,1 @@
+printf "aaaabbbbccccddddeeeeffffgggghhhh\x47\x45\x43\x41" | ./a.out

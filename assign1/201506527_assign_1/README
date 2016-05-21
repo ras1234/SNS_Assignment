@@ -1,0 +1,11 @@
+Commands to run the programs.
+
+serverprogram:
+compile:gcc 201506527_assign_1_server.c -lcrypto 
+run:./a.out
+
+
+clientprogram:
+compile:gcc 201506527_assign_1_client.c -lcrypto -lm
+run:./a.out 127.0.0.1
+

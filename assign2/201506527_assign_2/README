@@ -1,0 +1,10 @@
+compile:
+gcc 201506527_assign_2_.c -lm
+
+run:
+./a.out filename KEYRING_SIZE KEYPOOL_SIZE
+
+For plotting purpose the following should be installed in ur system:
+sudo apt-get install gnuplot
+sudo apt-get install gnuplot-x11
+

